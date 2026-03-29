@@ -1,0 +1,7 @@
+{
+  "name": "Raksha",
+  "description": "An intelligent conversational AI for filing structured FIRs with voice support and real-time form mapping.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
